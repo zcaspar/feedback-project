@@ -1,3 +1,4 @@
+Attribute VB_Name = "Feedback"
 Dim coursearray(1 To 50, 1 To 50) As Variant
 Dim noanswercount As Integer
 Dim pname As String
